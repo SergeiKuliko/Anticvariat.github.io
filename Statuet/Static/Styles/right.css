@@ -1,0 +1,19 @@
+.right_bok {
+    grid-column: 11/13;
+}
+
+.po {
+    margin: 1px;
+    padding: 1px;
+    border-width: 0;
+    border-style: solid;
+    border-color: aqua;
+    color: blueviolet;
+    width: 20vh;
+    border-radius: 3px;
+}
+
+
+.right_bok .po {
+    margin-left: 6.9em;
+}

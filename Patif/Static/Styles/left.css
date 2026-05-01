@@ -1,0 +1,14 @@
+.left_bok {
+    grid-column: 1/3;
+}
+
+
+
+.po {
+    margin: 1px;
+    padding: 1px;
+    border-width: 0;
+    border-style: solid;
+    border-color: aqua;
+    color: blueviolet;
+}

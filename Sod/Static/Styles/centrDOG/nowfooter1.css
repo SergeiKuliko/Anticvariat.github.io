@@ -1,0 +1,33 @@
+
+.foot {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6em;
+}
+
+
+
+.werr {
+    display: flex;
+    border: 0;
+    border-style: solid;
+    border-color: burlywood;
+    padding-left: 1em;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: rgb(214, 223, 214);
+}
+
+.qwer {
+    padding-left: 8em;
+}
+
+
+.bort {
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+.parag {
+    margin-left: 1em;
+}

@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main_nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-image: linear-gradient(to left, rgb(111, 0, 255), rgb(128, 0, 85), rgb(156, 180, 20));
+}
+
+.ulin {
+    display: flex;
+    list-style: none;
+
+}
+
+
+.cer {
+    border-radius: 3px;
+}
+
+.ulin>li {
+    /* border: 1px;
+    border-style: solid;
+    border-color: aqua; */
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.foto .cer {
+    width: 30vh;
+    height: 100%;
+}
+
+.top .vil1.active {
+    color: aliceblue;
+}
+
+
+
+
+.top,
+.top2,
+.top3 {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top>li,
+.top2>li,
+.top3>li {
+    border: 0;
+    border-style: solid;
+    border-color: aqua;
+    list-style: none;
+    color: aqua;
+}
+
+.top,
+.top2,
+.top3 {
+    text-align: left;
+    font-size: 1.5em;
+}
+
+.vil1,
+.vil3,
+.vil5 {
+    padding: 3em;
+    vertical-align: 2em;
+}
+
+.top,
+.top2,
+.top3 {
+    padding-left: 4em;
+}
+
+
+
+.vil,
+.vil1,
+.vil2,
+.vil3,
+.vil4,
+.vil5,
+.vil6 {
+    color: aqua;
+    font-style: italic;
+}
+
+
+.form {
+    padding-left: 6em;
+}
+
+.vil:hover,
+.vil1:hover,
+.vil2:hover,
+.vil3:hover,
+.vil4:hover,
+.vil5:hover,
+.vil6:hover {
+    color: brown;
+}
+
+
+.top,
+.top2,
+.top3 {
+    text-shadow: 9px 9px 11px rgba(12, 11, 11, 0.822);
+}
